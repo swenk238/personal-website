@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized on Netlify &#43; Hugo Quickstart</title>
+    <link>http://hugo-quickstart-template.netlify.com/tags/uncategorized/</link>
+    <description>Recent content in Uncategorized on Netlify &#43; Hugo Quickstart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Aug 2019 21:47:53 +0000</lastBuildDate><atom:link href="http://hugo-quickstart-template.netlify.com/tags/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On writing</title>
+      <link>http://hugo-quickstart-template.netlify.com/on-writing/</link>
+      <pubDate>Thu, 29 Aug 2019 21:47:53 +0000</pubDate>
+      
+      <guid>http://hugo-quickstart-template.netlify.com/on-writing/</guid>
+      <description>https://writing.wisc.edu/handbook/style/connectingideas/
+Also this verb cheatsheet I received from the summer&amp;hellip;
+https://docs.google.com/viewer?a=v&amp;amp;pid=sites&amp;amp;srcid=ZGVmYXVsdGRvbWFpbnx0d2JsYWNrbGluZW1hc3RlcnN8Z3g6MTUxZTVhZTc2OTg3MWNkYQ
+https://docs.google.com/presentation/d/1nqXdOjVKhy5kyqsQRrHTgvc9_I_R2Aniaihes54IljU/edit#slide=id.g5737be4484_2_91
+https://thesiswhisperer.com/2012/11/28/on-deliberate-practice/</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://hugo-quickstart-template.netlify.com/firstpost/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/</loc>
+    <lastmod>2019-08-29T21:47:53+00:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/on-writing/</loc>
+    <lastmod>2019-08-29T21:47:53+00:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/tags/</loc>
+    <lastmod>2019-08-29T21:47:53+00:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/tags/uncategorized/</loc>
+    <lastmod>2019-08-29T21:47:53+00:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/quotes/</loc>
+    <lastmod>2019-01-30T06:22:41+00:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/contact/</loc>
+    <lastmod>2016-05-24T06:33:05+00:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/categories/</loc>
+  </url>
+</urlset>
