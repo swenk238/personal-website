@@ -1,59 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Netlify &#43; Hugo Quickstart</title>
+    <title>HOME on testing &#43; Hugo Quickstart</title>
     <link>http://hugo-quickstart-template.netlify.com/</link>
-    <description>Recent content on Netlify &#43; Hugo Quickstart</description>
+    <description>Recent content in HOME on testing &#43; Hugo Quickstart</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 29 Aug 2019 21:47:53 +0000</lastBuildDate><atom:link href="http://hugo-quickstart-template.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://hugo-quickstart-template.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://hugo-quickstart-template.netlify.com/firstpost/</link>
-      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <title>Get to know me better</title>
+      <link>http://hugo-quickstart-template.netlify.com/about/a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://hugo-quickstart-template.netlify.com/firstpost/</guid>
-      <description>This is my very first post on my Hugo website! The Hugo theme being used for this site is called Tale. It is very simple to install and configure.
-Subheading This is some content.
-Another Subheading This is more content.</description>
-    </item>
-    
-    <item>
-      <title>On writing</title>
-      <link>http://hugo-quickstart-template.netlify.com/on-writing/</link>
-      <pubDate>Thu, 29 Aug 2019 21:47:53 +0000</pubDate>
-      
-      <guid>http://hugo-quickstart-template.netlify.com/on-writing/</guid>
-      <description>https://writing.wisc.edu/handbook/style/connectingideas/
-Also this verb cheatsheet I received from the summer&amp;hellip;
-https://docs.google.com/viewer?a=v&amp;amp;pid=sites&amp;amp;srcid=ZGVmYXVsdGRvbWFpbnx0d2JsYWNrbGluZW1hc3RlcnN8Z3g6MTUxZTVhZTc2OTg3MWNkYQ
-https://docs.google.com/presentation/d/1nqXdOjVKhy5kyqsQRrHTgvc9_I_R2Aniaihes54IljU/edit#slide=id.g5737be4484_2_91
-https://thesiswhisperer.com/2012/11/28/on-deliberate-practice/</description>
-    </item>
-    
-    <item>
-      <title>Quotes</title>
-      <link>http://hugo-quickstart-template.netlify.com/quotes/</link>
-      <pubDate>Wed, 30 Jan 2019 06:22:41 +0000</pubDate>
-      
-      <guid>http://hugo-quickstart-template.netlify.com/quotes/</guid>
-      <description>Some of my favourite quotes about stats:
-“The quiet statisticians have changed our world; not by discovering new facts or technical developments, but by changing the ways that we reason, experiment and form our opinions.”
-Ian Hacking
-All models are wrong, but some are useful.
-George Box, statistician
-&amp;ldquo;The best way to improve a theory is to study anomalies&amp;rdquo;
-Clayton Christensen, HBS Professor
-If experiment is the queen of sciences, then statistics is the Guardian of royal virtue.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://hugo-quickstart-template.netlify.com/contact/</link>
-      <pubDate>Tue, 24 May 2016 06:33:05 +0000</pubDate>
-      
-      <guid>http://hugo-quickstart-template.netlify.com/contact/</guid>
-      <description>Feel free to reach out to me if you&amp;rsquo;ve any questions or queries: [contact-form to=&amp;ldquo;swen.kuh@anu.edu.au&amp;rdquo;][contact-field label=&amp;ldquo;Name&amp;rdquo; type=&amp;ldquo;name&amp;rdquo; required=&amp;ldquo;1&amp;rdquo; /][contact-field label=&amp;ldquo;Email&amp;rdquo; type=&amp;ldquo;email&amp;rdquo; required=&amp;ldquo;1&amp;rdquo; /][contact-field label=&amp;ldquo;Website&amp;rdquo; type=&amp;ldquo;url&amp;rdquo; /][contact-field label=&amp;ldquo;Comment&amp;rdquo; type=&amp;ldquo;textarea&amp;rdquo; required=&amp;ldquo;1&amp;rdquo; /][/contact-form]</description>
+      <guid>http://hugo-quickstart-template.netlify.com/about/a/</guid>
+      <description>This is a.md</description>
     </item>
     
   </channel>

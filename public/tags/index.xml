@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Netlify &#43; Hugo Quickstart</title>
+    <title>Tags on testing &#43; Hugo Quickstart</title>
     <link>http://hugo-quickstart-template.netlify.com/tags/</link>
-    <description>Recent content in Tags on Netlify &#43; Hugo Quickstart</description>
+    <description>Recent content in Tags on testing &#43; Hugo Quickstart</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 29 Aug 2019 21:47:53 +0000</lastBuildDate><atom:link href="http://hugo-quickstart-template.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Uncategorized</title>
-      <link>http://hugo-quickstart-template.netlify.com/tags/uncategorized/</link>
-      <pubDate>Thu, 29 Aug 2019 21:47:53 +0000</pubDate>
-      
-      <guid>http://hugo-quickstart-template.netlify.com/tags/uncategorized/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://hugo-quickstart-template.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,4 +1,4 @@
 baseURL = 'http://hugo-quickstart-template.netlify.com'
 languageCode = 'en-us'
 title = 'testing + Hugo Quickstart'
-theme = 'hugo-tranquilpeak-theme'
+theme = 'personal-web'
