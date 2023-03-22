@@ -81,10 +81,10 @@ sectionPagesMenu = 'main'
   weight = 2
 
   [[menu.main]]
-  identifier = "links"
-  name = "Useful links"
-  title = "Useful links"
-  url = "/links/"
+  identifier = "quotes"
+  name = "Quotes"
+  title = "Quotes"
+  url = "/quotes/"
   weight = 3
 
 [[menu.main]]
