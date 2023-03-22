@@ -24,8 +24,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Edna :wave:"
-  sub = "I'm a Web Developer and Entrepreneur"
+  main = "Hi, I'm Swen Kuh :wave:"
+  sub = "I'm a Research Fellow in Statistics"
 
 [params.main]
   latestPublishHeader = "My Latest Project"
@@ -61,19 +61,13 @@ pygmentsCodeFences=true
   customCSS = ""
 
 [params.social]
-  github = "https://github.com/"
-  twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/"
-  medium = "https://medium.com/"
-  codepen = "https://codepen.io/"
-  facebook = "https://www.facebook.com/"
-  youtube = "https://www.youtube.com/"
-  instagram = "https://www.instagram.com/"
-  gitlab = "https://gitlab.com/"
-  keybase = "https://keybase.io/"
+  github = "https://github.com/swenk238"
+  twitter = "https://twitter.com/swenkuh"
+  linkedin = "https://www.linkedin.com/in/swenkuh"
+  
 
 [params.contact]
-  email = ""
+  email = "swen.kuh@gmail.com"
   text= ""
 
 
@@ -87,10 +81,10 @@ pygmentsCodeFences=true
   weight = -120
 
 [[menu.main]]
-  identifier = "portfolio"
-  name = "Portfolio"
-  title = "Portfolio"
-  url = "/portfolio/"
+  identifier = "research"
+  name = "Research"
+  title = "Research"
+  url = "/research/"
   weight = -110
 
 [[menu.main]]
@@ -124,8 +118,8 @@ The sidebar header is defined within the `params.intro` section. The `main` bein
 
 ```TOML
 [params.intro]
-  main = "Hi, I'm Edna :wave:"
-  sub = "I'm a Web Developer and Entrepreneur"
+  main = "Hi, I'm Swen :wave:"
+  sub = "This is my personal website"
 ```
 
 You can also customize the params with the  `params.sidebar` parameters. The `config.toml` file contains the default values as examples.

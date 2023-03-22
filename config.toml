@@ -1,4 +1,111 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
-languageCode = 'en-us'
-title = 'testing + Hugo Quickstart'
-theme = 'personal-web'
+baseURL = "https://kuhstats.netlify.app/"
+languageCode = "en-us"
+title = "Swen Kuh"
+theme = "personal-web"
+copyright="© Edna West"
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[params.intro]
+  main = " "
+  sub = "Swen Kuh"
+
+[params.main]
+  latestPublishHeader = "Latest news"
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  breadcrumb = true
+  accentColor = "#FD3519"
+  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+
+[params.notFound]
+  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Bummer!'
+  p = "It seems that this page doesn't exist."
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post = "article"
+  portfolio = "project"
+
+[params.sidebar]
+  backgroundImage = '' # header background image - default "/images/default-sidebar.jpg" 
+  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "" # - default "/images/taranaki.jpg"
+[params.assets]
+  favicon = ""
+  customCSS = ""
+
+[params.social]
+  github = "https://github.com/swenk238"
+  twitter = "https://twitter.com/swenkuh"
+  linkedin = "https://www.linkedin.com/in/swenkuh"
+  googlescholar = "https://scholar.google.com/citations?hl=en&user=K7CczLcAAAAJ"
+
+[params.contact]
+  email = "swen.kuh@gmail.com"
+  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  title = "About section"
+  url = "/about/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "research"
+  name = "Research"
+  title = "Research"
+  url = "/research/"
+  weight = -110
+
+[[menu.main]]
+  identifier = "post"
+  name = "Post"
+  title = "Post"
+  url = "/post/"
+  weight = -100
+
+  [[menu.main]]
+  identifier = "links"
+  name = "Useful links"
+  title = "Useful links"
+  url = "/links/"
+  weight = -100
+
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
