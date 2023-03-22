@@ -8,13 +8,14 @@ enableEmoji=true
 enableRobotsTXT=true
 pygmentsUseClasses=true
 pygmentsCodeFences=true
+sectionPagesMenu = 'main'
 
 [params.intro]
   main = " "
   sub = "Swen Kuh"
 
 [params.main]
-  latestPublishHeader = "Latest news"
+  latestPublishHeader = " "
 
 [taxonomies]
   design = "designs"
@@ -43,6 +44,7 @@ pygmentsCodeFences=true
   backgroundImage = '' # header background image - default "/images/default-sidebar.jpg" 
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
   logo = "" # - default "/images/taranaki.jpg"
+
 [params.assets]
   favicon = ""
   customCSS = ""
@@ -59,35 +61,46 @@ pygmentsCodeFences=true
 
 
 [menu]
-
 [[menu.main]]
   identifier = "about"
   name = "About"
-  title = "About section"
-  url = "/about/"
-  weight = -120
+  title = "About"
+  weight = 1  
 
 [[menu.main]]
-  identifier = "research"
   name = "Research"
   title = "Research"
-  url = "/research/"
-  weight = -110
-
+  parent = "about"
+  weight = 1.5
+  
 [[menu.main]]
   identifier = "post"
   name = "Post"
   title = "Post"
   url = "/post/"
-  weight = -100
+  weight = 2
 
   [[menu.main]]
   identifier = "links"
   name = "Useful links"
   title = "Useful links"
   url = "/links/"
-  weight = -100
+  weight = 3
 
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  title = "Contact section"
+  url = "/contact/"
+  weight = 4
+
+
+  [[menu.main]]
+  identifier = "exampleSite"
+  name = "exampleSite"
+  title = "exampleSite"
+  url = "/exampleSite/"
+  weight = 10
 
 [sitemap]
   changefreq = "monthly"
