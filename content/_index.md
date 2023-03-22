@@ -8,7 +8,7 @@ Hi! I'm Swen Kuh.
 
 I'm currently a **Research Fellow in Statistics at Monash University** working in collaboration with **Lauren Kennedy** (soon starting in University of Adelaide), **Qixuan Chen** and **Andrew Gelman** in Columbia University. 
 
-I obtained my PhD in Statistics from Australian National University under the supervision of **Grace Chiu** and **Anton Westveld**. I graduated from Honours in Statistics from University of Auckland (home of R!) working under [COMPASS](https://www.auckland.ac.nz/en/arts/our-research/research-institutes-centres-groups/compass.html) the quantitative social science research institute.
+I obtained my PhD in Statistics from Australian National University under the supervision of **Grace Chiu** and **Anton Westveld**. I had a minor in sociology and graduated from Honours in Statistics from University of Auckland (home of ![/images/Rlogo.jpg] R!) working under [COMPASS](https://www.auckland.ac.nz/en/arts/our-research/research-institutes-centres-groups/compass.html) the quantitative social science research institute.
 
 # Research
 My general training have been in **Bayesian inference and methods in applications to the social science**. My methodological training include multilevel regression and poststratification (MRP) method, Bayesian hierarchical (or multilevel/mixed) modelling, spatial models, causal inference while writing and coding up my own MCMC sampling methods. 
@@ -46,4 +46,4 @@ Some of my favourite websites:
         - [youcubed](https://www.youcubed.org/tasks/)
 
 # Contact
-[Get to know me better](/contact "Get to know me better")
+[Contact me](/contact/)
