@@ -6,44 +6,61 @@ images: ["/images/taranaki.jpg"]
 
 Hi! I'm Swen Kuh. 
 
-I'm currently a **Research Fellow in Statistics at Monash University** working in collaboration with **Lauren Kennedy** (soon starting in University of Adelaide), **Qixuan Chen** and **Andrew Gelman** in Columbia University. 
+I'm currently a **Research Fellow in Statistics at Monash University** working with [Lauren Kennedy](https://jazzystats.com/about.html) (soon starting in University of Adelaide), in collaboration with **Qixuan Chen** and **Andrew Gelman** in Columbia University. 
 
-I obtained my PhD in Statistics from Australian National University under the supervision of **Grace Chiu** and **Anton Westveld**. I had a minor in sociology and graduated from Honours in Statistics from University of Auckland (home of ![/images/Rlogo.jpg] R!) working under [COMPASS](https://www.auckland.ac.nz/en/arts/our-research/research-institutes-centres-groups/compass.html) the quantitative social science research institute.
+I obtained my PhD in Statistics from Australian National University under the supervision of [Grace Chiu](https://www.vims.edu/people/chiu_gs/) (now at William \& Mary) and [Anton Westveld](https://westveld-statsci.com/). I had a minor in sociology and graduated from Honours in Statistics from University of Auckland (home of R!) working under [COMPASS](https://www.auckland.ac.nz/en/arts/our-research/research-institutes-centres-groups/compass.html), a quantitative social science research institute.
 
 # Research
-My general training have been in **Bayesian inference and methods in applications to the social science**. My methodological training include multilevel regression and poststratification (MRP) method, Bayesian hierarchical (or multilevel/mixed) modelling, spatial models, causal inference while writing and coding up my own MCMC sampling methods. 
+
+Research interests:
+- Bayesian inference and methods (hierarchical/multilevel model)
+- Social science applications
+- Data visualisation
+
+My general training have been in **Bayesian inference and methods in applications to the social sciences**. My methodological training include multilevel regression and poststratification ([MRP](https://en.wikipedia.org/wiki/Multilevel_regression_with_poststratification)) method, Bayesian hierarchical (or multilevel/mixed) modelling, spatial modelling and causal inference while writing and coding up our own MCMC sampling methods. I enjoy different ways of visualising data and results. 
  
- Here are some of my documented work:
+Here are some of my documented work:
 
-- [“Using leave‑one‑out cross validation (LOO) in a multilevel regression and poststratification (MRP) workflow: A cautionary tale”](https://arxiv.org/abs/2209.01773) - joint work with Lauren Kennedy, Qixuan Chen, Andrew Gelman (in review). 
+- [Using leave‑one‑out cross validation (LOO) in a multilevel regression and poststratification (MRP) workflow: A cautionary tale](https://arxiv.org/abs/2209.01773) --- joint work with Lauren Kennedy, Qixuan Chen, Andrew Gelman (in review). 
 
-- [“Latent Causal Socioeconomic Health Index."](https://arxiv.org/abs/2009.12217) - joint work with Grace Chiu and Anton Westveld 
+- [A holistic Bayesian framework for modelling latent socio-economic health](https://openresearch-repository.anu.edu.au/handle/1885/264129) --- PhD thesis. On supervisory panel are Grace Chiu, Anton Westveld and Timothy Higgins. 
 
-- [“Modeling National Latent Socioeconomic Health and Examination of Policy Effects via Causal Inference.”](https://arxiv.org/abs/1911.00512) - joint work with Grace Chiu and Anton Westveld (preprint). 
+- [Latent Causal Socioeconomic Health Index.](https://arxiv.org/abs/2009.12217) --- joint work with Grace Chiu and Anton Westveld (in review).
+
+- [Modeling National Latent Socioeconomic Health and Examination of Policy Effects via Causal Inference.](https://arxiv.org/abs/1911.00512) --- joint work with Grace Chiu and Anton Westveld (preprint). 
+
+- [Socio-economic position and mortality risks: a sibling approach Analysis using the New Zealand Longitudinal Census (NZLC)](https://www.researchgate.net/publication/321757582_Socio-economic_position_and_mortality_risks_a_sibling_approach_Analysis_using_the_New_Zealand_Longitudinal_Census_NZLC) --- supervised by Barry J Milne and Alan Lee
+
+Posters:
+
+- **Model-Based Socio-Economic Health Measures Using Causal Modeling** --- SPEED poster which [won the inaugural poster competition](https://twitter.com/AsaphChun/status/1025028890870214656) of the Social Statistics Section at JSM (Joint Statistical Meeting) 2018 held in Vancouver, Canada. 
+
+- [Latent Socio-Economic Health and Causal Modelling](https://openresearch-repository.anu.edu.au/bitstream/1885/134344/5/BoB_poster.pdf) --- presented at Bayes on the Beach 2017. 
+
+- [Social Network Analysis on Food Web and Dispute Data](https://openresearch-repository.anu.edu.au/bitstream/1885/95008/1/Poster_Swen%20Kuh.pdf) --- part of ANU summer research scholarship 2014/15.
 
 
-Previous posters:
-
-- [Latent Socio-Economic Health and Causal Modelling](https://openresearch-repository.anu.edu.au/bitstream/1885/134344/5/BoB_poster.pdf) - joint work with Grace Chiu and Anton Westveld 
-
-- [Social Network Analysis on Food Web and Dispute Data](https://openresearch-repository.anu.edu.au/bitstream/1885/95008/1/Poster_Swen%20Kuh.pdf) - joint work with Anton Westveld and Grace Chiu
 
 # Links
-Some of my favourite websites:
+#### Statistics-related
+- [Correlation doesn\'t imply causation](http://tylervigen.com/spurious-correlations)  
+- [Simpson\'s paradox](https://www.forrestthewoods.com/blog/my_favorite_paradox/)  
+- [Statistical Rethinking book](https://xcelab.net/rm/statistical-rethinking//)  
+<!-- - Sample size calculations:  
+    1) [https://conjointly.com/blog/sample-size-calculator/](https://conjointly.com/blog/sample-size-calculator/)  -->
+- [Distributions](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
 
-<!--- **Statistics-related**   
-- Correlation doesn’t imply causation: [http://tylervigen.com/spurious-correlations](http://tylervigen.com/spurious-correlations)  
-- Simpson's paradox: [https://www.forrestthewoods.com/blog/my\_favorite\_paradox/](https://www.forrestthewoods.com/blog/my_favorite_paradox/)  
-- Statistical Rethinking book, recoded: [https://bookdown.org/ajkurz/Statistical\_Rethinking\_recoded/](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)  
-- Sample size calculations:  
-1) [https://conjointly.com/blog/sample-size-calculator/](https://conjointly.com/blog/sample-size-calculator/) --->
+#### Blogs:
+- [Xi\' an\'s og](https://xianblog.wordpress.com/)
+- [Kaiser Fung\'s junk chart](https://junkcharts.typepad.com/junk_charts/)
+- [Statistical Modeling, Causal Inference, and Social Science (Andrew Gelman\'s blog)](https://statmodeling.stat.columbia.edu/)
 
-- **Social science**  
-    - [RSA animate Youtube Channel](https://www.youtube.com/playlist?list=PL39BF9545D740ECFF)
+#### Social science: 
+- [RSA animate](https://www.youtube.com/playlist?list=PL39BF9545D740ECFF)
 
-- **For learning** - relearning things that I wasn't paying attention to at school:  
-        - [ck12](https://www.ck12.org/browse/)  
-        - [youcubed](https://www.youcubed.org/tasks/)
+#### For learning:
+I was involved in the [Magellan Program](https://www.mcss.act.edu.au/special_programs/Magellan_Program) teaching mathematics and statistics to talented years 7-10 students in Canberra, ACT and came across some useful resources:
+- [ck12](https://www.ck12.org/browse/)  
+- [youcubed](https://www.youcubed.org/tasks/)
 
-# Contact
-[Contact me](/contact/)
+### [Contact me](/contact/)

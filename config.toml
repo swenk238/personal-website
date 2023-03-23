@@ -65,13 +65,9 @@ sectionPagesMenu = 'main'
   identifier = "about"
   name = "About"
   title = "About"
+  url = "/"
   weight = 1  
 
-[[menu.main]]
-  name = "Research"
-  title = "Research"
-  parent = "about"
-  weight = 1.5
   
 [[menu.main]]
   identifier = "post"
@@ -92,15 +88,7 @@ sectionPagesMenu = 'main'
   name = "Contact"
   title = "Contact section"
   url = "/contact/"
-  weight = 4
-
-
-  [[menu.main]]
-  identifier = "exampleSite"
-  name = "exampleSite"
-  title = "exampleSite"
-  url = "/exampleSite/"
-  weight = 10
+  weight = 5
 
 [sitemap]
   changefreq = "monthly"

@@ -12,7 +12,7 @@
     {{ $scratch.Set "section" (.Site.Params.sections.post) }}
   {{ end }}
 
-  <p>While you're here, you can check out my last {{ $scratch.Get "section" }}:</p>
+  <!-- <p>While you're here, you can check out my last {{ $scratch.Get "section" }}:</p>
   {{ $pages := where site.RegularPages "Type" "in" .Site.Params.mainSections }}
   {{ range first 1 $pages }}
     {{ if in .Site.Params.mainSections "portfolio" }}
@@ -20,7 +20,7 @@
     {{ else if in .Site.Params.mainSections "post" }}
       {{ partial "post/item" .}}
     {{ end }}
-  {{ end }}
-{{end}}
+  {{ end }} -->
+{{end}} 
 
 {{ partial "footer" .}}
