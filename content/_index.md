@@ -8,7 +8,7 @@ Hi! I'm **Swen Kuh** _(pronounced as s-when and k-oo-h (more like the German pro
 
 I'm currently a **Research Fellow in Statistics at Monash University** working with [Lauren Kennedy](https://jazzystats.com/about.html) (soon starting in University of Adelaide), in collaboration with **Qixuan Chen** and **Andrew Gelman** in Columbia University. 
 
-I obtained my PhD in Statistics from Australian National University under the supervision of [Grace Chiu](https://www.vims.edu/people/chiu_gs/) (now at William \& Mary) and [Anton Westveld](https://westveld-statsci.com/). I had a minor in sociology and graduated from Honours in Statistics from University of Auckland (home of R!) working under [COMPASS](https://www.auckland.ac.nz/en/arts/our-research/research-institutes-centres-groups/compass.html), a quantitative social science research institute.
+I was an [IBISWorld PhD scholar](https://www.anu.edu.au/giving/impact-stories/nurturing-new-ideas) and obtained my PhD in Statistics from Australian National University under the supervision of [Grace Chiu](https://www.vims.edu/people/chiu_gs/) (now at William \& Mary) and [Anton Westveld](https://westveld-statsci.com/). I had a minor in sociology and graduated from Honours in Statistics from University of Auckland (home of R!) working under [COMPASS](https://www.auckland.ac.nz/en/arts/our-research/research-institutes-centres-groups/compass.html), a quantitative social science research institute.
 
 # Research
 
