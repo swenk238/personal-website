@@ -4,7 +4,8 @@ description:
 images: ["/images/taranaki.jpg"]
 ---
 
-Hi! I'm Swen Kuh. 
+Hi! I'm Swen Kuh. \
+_(Swen is pronounced as s-when and Kuh as k-oo-h (more like the German pronounciation))_
 
 I'm currently a **Research Fellow in Statistics at Monash University** working with [Lauren Kennedy](https://jazzystats.com/about.html) (soon starting in University of Adelaide), in collaboration with **Qixuan Chen** and **Andrew Gelman** in Columbia University. 
 
