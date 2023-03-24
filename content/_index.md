@@ -17,7 +17,7 @@ Research interests:
 - Social science applications
 - Data visualisation
 
-My general training have been in **Bayesian inference and methods in applications to the social sciences**. My methodological training include multilevel regression and poststratification ([MRP](https://en.wikipedia.org/wiki/Multilevel_regression_with_poststratification)) method, Bayesian hierarchical (or multilevel/mixed) modelling, spatial modelling and causal inference while writing and coding up our own MCMC sampling methods. I enjoy different ways of visualising data and results. 
+My general training have been in **Bayesian inference and methods in applications to the social sciences**. My methodological training include multilevel regression and poststratification ([MRP](https://en.wikipedia.org/wiki/Multilevel_regression_with_poststratification)) method, Bayesian hierarchical (or multilevel/mixed) modelling, spatial modelling and causal inference while writing and coding up our own MCMC sampling methods. I also enjoy extracting insights from data and different ways of visualising the data and results. 
  
 Here are some of my documented work:
 
