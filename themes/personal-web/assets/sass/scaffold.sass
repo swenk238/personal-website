@@ -1,6 +1,5 @@
 @import 'variables'
 @import 'mixins'
-
 *
   box-sizing: border-box
 
@@ -156,7 +155,8 @@ header
   +smartphone
     position: relative
     width: 100%
-    background: $dark-blue !important
+    background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(/images/taranaki.jpg) !important
+    color: transparent
     display: block
     height: auto
     p
@@ -265,8 +265,8 @@ img.gopher
 +smartphone
   .mobile-header
     padding: $padding-mobile-header
-    background: $dark-blue
-    color: $grey-100
+    background: url(/images/taranaki.jpg)
+    color: $dark-blue
     
     p
       font-size: $font-size_h2
