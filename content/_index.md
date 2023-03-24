@@ -42,6 +42,7 @@ Posters:
 
 
 # Links
+Some non-exhaustive list of links: 
 #### Statistics-related
 - [Correlation doesn\'t imply causation](http://tylervigen.com/spurious-correlations)  
 - [Simpson\'s paradox](https://www.forrestthewoods.com/blog/my_favorite_paradox/)  
