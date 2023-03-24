@@ -2,7 +2,7 @@ baseURL = "https://kuhstats.netlify.app/"
 languageCode = "en-us"
 title = "Swen Kuh"
 theme = "personal-web"
-copyright="© Edna West"
+copyright=""
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -41,7 +41,7 @@ sectionPagesMenu = 'main'
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default-sidebar.jpg" 
+  backgroundImage = '' # header background image - default "/images/taranaki.jpg" 
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
   logo = "" # - default "/images/taranaki.jpg"
 
