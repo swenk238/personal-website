@@ -6,14 +6,14 @@ images: ["/images/taranaki.jpg"]
 
 Hi! I'm **Swen Kuh** _(last name pronounced as k-oo-h)_. My first name actually has two words and I've also published under **F. Swen Kuh**. 
 
-I'm currently a **Research Fellow in Statistics at Monash University** working with [Lauren Kennedy](https://jazzystats.com/about.html) (soon starting in University of Adelaide), in collaboration with **Qixuan Chen** and **Andrew Gelman** in Columbia University. 
+I'm currently a **Research Fellow in Statistics at University of Adelaide (working remotely in Melbourne)** working with [Dr. Lauren Kennedy](https://jazzystats.com/about.html) (bo University of Adelaide), in collaboration with **Assoc. Prof. Qixuan Chen** and **Prof. Andrew Gelman** in Columbia University. I am also concurrently a teaching associate at Monash University, co-lecturing Data Visualization and Analytics to both undergraduates and Masters students.
 
 I was an [IBISWorld PhD scholar](https://www.anu.edu.au/giving/impact-stories/nurturing-new-ideas) and obtained my PhD in Statistics from Australian National University under the supervision of [Grace Chiu](https://www.vims.edu/people/chiu_gs/) (now at William \& Mary) and [Anton Westveld](https://westveld-statsci.com/). Previously, I had a minor in sociology and graduated from Honours in Statistics from University of Auckland (home of R!) working under [COMPASS](https://www.auckland.ac.nz/en/arts/our-research/research-institutes-centres-groups/compass.html), a quantitative social science research institute.
 
 # Research
 
 Research interests:
-- Bayesian inference and methods (hierarchical/multilevel model)
+- Bayesian inference and methods
 - Social science applications
 - Data visualisation
 
