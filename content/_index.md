@@ -6,14 +6,14 @@ images: ["/images/taranaki.jpg"]
 
 Hi! I'm **Swen Kuh** _(last name pronounced as k-oo-h)_. My first name actually has two words and I've also published under **F. Swen Kuh**. 
 
-I'm currently a **Research Fellow in Statistics at University of Adelaide (working remotely in Melbourne)** working with [Dr. Lauren Kennedy](https://jazzystats.com/about.html) (bo University of Adelaide), in collaboration with **Assoc. Prof. Qixuan Chen** and **Prof. Andrew Gelman** in Columbia University. I am also concurrently a teaching associate at Monash University, co-lecturing Data Visualization and Analytics to both undergraduates and Masters students.
+I'm currently a **Research Fellow in Statistics** at Monash University, then had a contract transfer to the University of Adelaide due to the relocation of my supervisor. I am now working remotely in Melbourne with [Dr. Lauren Kennedy](https://jazzystats.com/about.html) (University of Adelaide), in collaboration with [Assoc. Prof. Qixuan Chen](https://www.publichealth.columbia.edu/profile/qixuan-chen-phd) and [Prof. Andrew Gelman](http://www.stat.columbia.edu/~gelman/)  (Columbia University). I am also concurrently a teaching associate at Monash University, co-lecturing Data Visualization and Analytics to both undergraduates and Masters students.
 
-I was an [IBISWorld PhD scholar](https://www.anu.edu.au/giving/impact-stories/nurturing-new-ideas) and obtained my PhD in Statistics from Australian National University under the supervision of [Grace Chiu](https://www.vims.edu/people/chiu_gs/) (now at William \& Mary) and [Anton Westveld](https://westveld-statsci.com/). Previously, I had a minor in sociology and graduated from Honours in Statistics from University of Auckland (home of R!) working under [COMPASS](https://www.auckland.ac.nz/en/arts/our-research/research-institutes-centres-groups/compass.html), a quantitative social science research institute.
+I was an [IBISWorld PhD scholar](https://www.anu.edu.au/giving/impact-stories/nurturing-new-ideas) and obtained my PhD in Statistics from Australian National University under the supervision of [Prof. Grace Chiu](https://www.vims.edu/people/chiu_gs/) (now at William \& Mary) and [Dr. Anton Westveld](https://westveld-statsci.com/). Previously, I had a minor in sociology and graduated from Honours in Statistics from University of Auckland (home of R!) working under [COMPASS](https://www.auckland.ac.nz/en/arts/our-research/research-institutes-centres-groups/compass.html), a quantitative social science research institute.
 
 # Research
 
 Research interests:
-- Bayesian inference and methods
+- Bayesian inference and methods (hierarchical/multilevel modelling, MCMC sampling methods)
 - Social science applications
 - Data visualisation
 
