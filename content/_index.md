@@ -19,25 +19,73 @@ Research interests:
 
 My general training have been in **Bayesian inference and methods in applications to the social sciences**. My methodological training include multilevel regression and poststratification ([MRP](https://en.wikipedia.org/wiki/Multilevel_regression_with_poststratification)) method, Bayesian hierarchical (or multilevel/mixed) modelling, spatial modelling and causal inference using countries' socio-economic data while writing and coding up our own MCMC sampling methods. I also enjoy extracting insights from data and different ways of visualising the data and results. 
  
-Here are some of my documented work:
 
-- [Using leave‑one‑out cross validation (LOO) in a multilevel regression and poststratification (MRP) workflow: A cautionary tale](https://arxiv.org/abs/2209.01773) --- joint work with Lauren Kennedy, Qixuan Chen, Andrew Gelman (in review). 
+#### Here are some of my documented work:
+
+<br>
+
+- [Using leave‑one‑out cross validation (LOO) in a multilevel regression and poststratification (MRP) workflow: A cautionary tale](https://doi.org/10.1002/sim.9964) --- joint work with Lauren Kennedy, Qixuan Chen, Andrew Gelman (Statistics in Medicine). 
+<center>
+<a href="https://doi.org/10.1002/sim.9964" target="_blank">
+  <img src="/images/looForMRP1.png" style="width:300px">
+</a>
+</center> <br>
 
 - [A holistic Bayesian framework for modelling latent socio-economic health](https://openresearch-repository.anu.edu.au/handle/1885/264129) --- PhD thesis. On supervisory panel are Grace Chiu, Anton Westveld and Timothy Higgins. 
+<center>
+<a href="https://openresearch-repository.anu.edu.au/handle/1885/264129" target="_blank">
+  <img src="/images/thesis.png" alt="Kuh thesis 2022" style="width:150px;height:200px;margin-top: 0">
+</a>
+</center><br>
 
 - [Latent Causal Socioeconomic Health Index.](https://arxiv.org/abs/2009.12217) --- joint work with Grace Chiu and Anton Westveld (in review).
+<center>
+<a href="https://arxiv.org/abs/2009.12217" target="_blank">
+  <img src="/images/ladder.png" alt="ladder plot" style="width:150px;height:200px;margin-top: 0">
+</a>
+</center><br>
 
 - [Modeling National Latent Socioeconomic Health and Examination of Policy Effects via Causal Inference.](https://arxiv.org/abs/1911.00512) --- joint work with Grace Chiu and Anton Westveld (preprint). 
+<center>
+<a href="https://arxiv.org/abs/1911.00512" target="_blank">
+  <img src="/images/resMap.png" alt="residual map" style="width:200px;height:120px;margin-top: 0">
+</a>
+</center><br>
+
 
 - [Socio-economic position and mortality risks: a sibling approach Analysis using the New Zealand Longitudinal Census (NZLC)](https://www.researchgate.net/publication/321757582_Socio-economic_position_and_mortality_risks_a_sibling_approach_Analysis_using_the_New_Zealand_Longitudinal_Census_NZLC) --- supervised by Barry J Milne and Alan Lee
 
-Posters:
+<center>
+<a href="https://www.researchgate.net/publication/321757582_Socio-economic_position_and_mortality_risks_a_sibling_approach_Analysis_using_the_New_Zealand_Longitudinal_Census_NZLC" target="_blank">
+  <img src="/images/uoaDiss.png" alt="UoAuckland dissertation" style="width:150px;height:200px;">
+</a>
+</center>
+
+#### Posters: 
+
+<br>
+
+- **Joint modelling of multiple treatment variables for a single outcome: A
+Bayesian approach.** --- presented at Bayesian Nonparametric Workshop 2023, Monash University.
+
 
 - **Model-Based Socio-Economic Health Measures Using Causal Modeling** --- SPEED poster which [won the inaugural poster competition](https://twitter.com/AsaphChun/status/1025028890870214656) of the Social Statistics Section at JSM (Joint Statistical Meeting) 2018 held in Vancouver, Canada. 
 
 - [Latent Socio-Economic Health and Causal Modelling](https://openresearch-repository.anu.edu.au/bitstream/1885/134344/5/BoB_poster.pdf) --- presented at Bayes on the Beach 2017. 
 
+<center>
+<a href="https://openresearch-repository.anu.edu.au/bitstream/1885/95008/1/Poster_Swen%20Kuh.pdf" target="_blank">
+  <img src="/images/BoB_poster.png" alt="Bayes on the Beach poster" style="width:200px;height:280px;">
+</a>
+</center><br>
+
 - [Social Network Analysis on Food Web and Dispute Data](https://openresearch-repository.anu.edu.au/bitstream/1885/95008/1/Poster_Swen%20Kuh.pdf) --- part of ANU summer research scholarship 2014/15.
+
+<center>
+<a href="https://openresearch-repository.anu.edu.au/bitstream/1885/95008/1/Poster_Swen%20Kuh.pdf" target="_blank">
+  <img src="/images/sna.png" alt="Alt Text" style="width:300px;height:200px;">
+</a>
+</center>
 
 
 
