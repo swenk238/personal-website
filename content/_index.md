@@ -68,7 +68,20 @@ My general training have been in **Bayesian inference and methods in application
 - [Joint modelling of multiple treatment variables for a single outcome: A
 Bayesian approach.](http://hdl.handle.net/1885/313116) --- presented at Bayesian Nonparametric Workshop 2023, Monash University. Keywords: extended rank likelihood; copula; generalised propensity score; dose-response surface
 
+<center>
+<a href="https://openresearch-repository.anu.edu.au/bitstream/1885/313116/1/erl_poster.pdf" target="_blank">
+  <img src="/images/bnp_2023.png" alt="extended rank likelihood poster" style="width:200px;height:280px;">
+</a>
+</center><br>
+
 [LACSH index: Modelling National Latent Socioeconomic Health and Examination of Policy Effects](http://hdl.handle.net/1885/313115) --- presented at Australian Statistical Conference 2023, University of Wollongong. Keywords: latent health; hierarchical/multilevel model; spatial; causal
+
+<center>
+<a href="https://openresearch-repository.anu.edu.au/bitstream/1885/313115/1/poster_LACSH.pdf" target="_blank">
+  <img src="/images/asc_2023.png" alt="ASC2023 poster" style="width:200px;height:280px;">
+</a>
+</center><br>
+
 
 - **Model-Based Socio-Economic Health Measures Using Causal Modeling** --- SPEED poster which [won the inaugural poster competition](https://twitter.com/AsaphChun/status/1025028890870214656) of the Social Statistics Section at JSM (Joint Statistical Meeting) 2018 held in Vancouver, Canada. 
 
