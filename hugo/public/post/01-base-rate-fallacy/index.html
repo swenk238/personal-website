@@ -42,7 +42,7 @@
   <div class="intro">
     <div class="logo-container">
       <a href="/">
-        <img src='https://kuhstats.netlify.app/images/skuh.jpg' alt="Profile Designs" class="rounded-logo">
+        <img src='https://kuhstats.netlify.app/images/skuh.jpg' alt="Profile Post" class="rounded-logo">
       </a>
     </div>
     <h2> </h2>
@@ -148,7 +148,7 @@
     <div class="intro">
       <div class="logo-container">
         <a href="/">
-          <img src='https://kuhstats.netlify.app/images/skuh.jpg' alt="Profile Designs" class="rounded-logo">
+          <img src='https://kuhstats.netlify.app/images/skuh.jpg' alt="Profile Post" class="rounded-logo">
         </a>
       </div>
       <h2> </h2>
@@ -328,19 +328,22 @@ $$P(A\cap B)$$
   <link href="https://fonts.googleapis.com/css?family=Montserrat:500,600|Raleway:400,400i,600" rel="stylesheet">
   
 
-  <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-      tex2jax: {
-        inlineMath: [['$','$'], ['\\(','\\)']],
-        displayMath: [['$$','$$'], ['\[','\]']],
-        processEscapes: true,
-        processEnvironments: true,
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-        TeX: { equationNumbers: { autoNumber: "AMS" },
-             extensions: ["AMSmath.js", "AMSsymbols.js"] }
-      }
-    });
-    </script>
+<script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      displayMath: [['$$','$$'], ['\[','\]']],
+      processEscapes: true,
+      processEnvironments: true,
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+      TeX: { equationNumbers: { autoNumber: "AMS" },
+           extensions: ["AMSmath.js", "AMSsymbols.js"] }
+    }
+  });
+  </script>
   <script type="text/javascript">
     document.querySelector('.mobile-header').addEventListener('click', function () {
       var om = document.querySelector(".overlay-menu");
