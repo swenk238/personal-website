@@ -15,7 +15,7 @@ It resonates as I have been learning statistics for almost the better half of my
 We all (should) know how to find joint probability of set A and set B, \(P(A\cap B)\), which is the intersection of the two, if the events are not independent. 
 ![jointProb](jointProb.jpg)
 
-We know that conditional probability is \(P(A|B) = \frac{P(A\cap B)}{P(B)}\). To depict \(P(A|B)\), the sample space is now 
+We know that conditional probability is \\(P(A|B) = \frac{P(A\cap B)}{P(B)}\\). To depict \(P(A|B)\), the sample space is now 
 
 ![condProb](condProb.jpg)
 
