@@ -29,6 +29,7 @@ sectionPagesMenu = 'main'
   breadcrumb = true
   accentColor = "#FD3519"
   mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+  math = true
 
 [markup]
   [markup.goldmark]
@@ -38,8 +39,7 @@ sectionPagesMenu = 'main'
         [markup.goldmark.extensions.passthrough.delimiters]
           block = [['\[', '\]'], ['$$', '$$']]
           inline = [['\(', '\)']]
-[params]
-  math = true
+ 
 
 [params.notFound]
   gopher = "/images/gopher.png" # checkout https://gopherize.me/

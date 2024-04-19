@@ -23,7 +23,7 @@ where we are interested in the joint probability over set B.
 
 This is where base rate fallacy comes in, where Jonathan describes with the taxicab and Zika virus problem. If Joe tests positive to a blood test on Zika virus, what is the probability he really has the virus? 
 
-The test has a true positive rate \(P(P | Z)\) of 0.95, and a true negative rate $P(NP | NZ)$ of 0.85. 
+The test has a true positive rate \(P(P | Z)\) of 0.95, and a true negative rate \\$(P(NP | NZ)\\$ of 0.85. 
 
 Turns out, Joe only has about 6% chance of having the virus. This is because the base rate of having the virus in population is only 1%. And we were after \(P(Z | P)\), which is Joe having the virus, given he tested positive. 
 
