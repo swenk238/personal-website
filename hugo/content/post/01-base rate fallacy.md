@@ -12,10 +12,10 @@ Today I was reading about [Base Rate Fallacy](https://jonathanweisberg.org/vip/c
 
 It resonates as I have been learning statistics for almost the better half of my life, and yet there are still so many concepts and things that challenge my understanding of it. The chapter got me wondering how do I represent conditional probability on a Venn diagram, which I've never done before. 
 
-We all (should) know how to find joint probability of set A and set B, \(P(A\cap B)\), which is the intersection of the two, if the events are not independent. 
+We all (should, I hope!) know how to find joint probability of set A and set B, \\(P(A\cap B)\\), which is the intersection of the two, if the events are not independent. 
 ![jointProb](jointProb.jpg)
 
-We know that conditional probability is `\\(P(A|B) = \frac{P(A\cap B)}{P(B)}\\)`. To depict $$P(A|B)$$, the sample space is now 
+We know that conditional probability is \\[P(A|B) = \frac{P(A\cap B)}{P(B)}\\]. To depict $$P(A|B)$$, the sample space is now 
 
 ![condProb](condProb.jpg)
 

@@ -4,8 +4,9 @@
     <title>Quotes on Swen Kuh</title>
     <link>https://kuhstats.netlify.app/quotes/</link>
     <description>Recent content in Quotes on Swen Kuh</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Jan 2019 06:22:41 +0000</lastBuildDate><atom:link href="https://kuhstats.netlify.app/quotes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://kuhstats.netlify.app/quotes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
