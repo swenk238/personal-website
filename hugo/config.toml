@@ -6,6 +6,7 @@ copyright=""
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
+enableGitInfo=true
 pygmentsUseClasses=true
 pygmentsCodeFences=true
 sectionPagesMenu = 'main'
@@ -76,7 +77,7 @@ sectionPagesMenu = 'main'
   url = "/post/"
   weight = 2
 
-  [[menu.main]]
+[[menu.main]]
   identifier = "quotes"
   name = "Quotes"
   title = "Quotes"
