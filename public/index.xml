@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Swen Kuh</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in About on Swen Kuh</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/public/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/public/</guid>
+      <description>&lt;!DOCTYPE html&gt; About - Swen Kuh Swen Kuh About Post Quotes Contact Swen Kuh Swen Kuh About Post Quotes Contact About About Hi! I&amp;rsquo;m Swen Kuh (last name pronounced as k-oo-h). My first name actually has two words and I&amp;rsquo;ve also published under F. Swen Kuh.&#xA;I&amp;rsquo;m currently a Research Fellow in Statistics at the University of Adelaide (contract transfer from Monash University due to the relocation of my supervisor). I am now working remotely in Melbourne with Dr.</description>
+    </item>
+    <item>
+      <title>Base rate fallacy</title>
+      <link>http://localhost:1313/post/01-base-rate-fallacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/01-base-rate-fallacy/</guid>
+      <description>Today I was reading about Base Rate Fallacy on Odds &amp;amp; Ends by Jonathan Weisberg, which is a textbook for introductory philosophy courses on probability and inductive logic, freely available on his website here. The chapter also starts off with this quote,&#xA;…in no other branch of mathematics is it so easy for experts to blunder as in probability theory. —Martin Gardner&#xA;It resonates as I have been learning statistics for almost the better half of my life, and yet there are still so many concepts and things that challenge my understanding of it.</description>
+    </item>
+    <item>
+      <title>Getting started</title>
+      <link>http://localhost:1313/post/first-hugo-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/first-hugo-post/</guid>
+      <description>This is my first post on the new website using Hugo. I will figure out how to add other widgets and also hopefully document any work related information here.</description>
+    </item>
+  </channel>
+</rss>
