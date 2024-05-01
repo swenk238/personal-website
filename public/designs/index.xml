@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designs on Swen Kuh</title>
-    <link>http://localhost:1313/designs/</link>
+    <link>https://kuhstats.netlify.app/designs/</link>
     <description>Recent content in Designs on Swen Kuh</description>
     <generator>Hugo 0.125.1</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/designs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kuhstats.netlify.app/designs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
