@@ -61,8 +61,6 @@ My general training have been in **Bayesian inference and methods in application
 </a>
 </center>
 
-![Alt text](/images/asc_2023.png)
-
 #### Posters: 
 
 <br>

@@ -4,10 +4,10 @@
 {{ $width := .Get "width" | default "auto" }}
 {{ $height := .Get "height" | default "auto" }}
 {{ $marginTop := .Get "margin-top" | default "0" }}
+{{ $marginLeft := .Get "margin-left" | default "0" }}
 {{ $url := .Get "url" }}
-{{ $align := .Get "align" | default "center" }}
 
-<div style="text-align: {{ $align }}; margin-top: {{ $marginTop }};">
+<div class="centered" style="margin-top: {{ $marginTop }}; margin-left: {{ $marginLeft }}">
   {{ if $url }}
     <a href="{{ $url }}" title="{{ $title }}">
       <img src="{{ $src }}" alt="{{ $alt }}" title="{{ $title }}" style="width: {{ $width }}; height: {{ $height }};" />
