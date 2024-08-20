@@ -7,12 +7,12 @@
 {{ $marginLeft := .Get "margin-left" | default "0" }}
 {{ $url := .Get "url" }}
 
-<div class="centered" style="margin-top: {{ $marginTop }}; margin-left: {{ $marginLeft }}">
+<div style="text-align: center; margin-top: {{ $marginTop }}; margin-left: {{ $marginLeft }}; line-height: 0;">
   {{ if $url }}
     <a href="{{ $url }}" title="{{ $title }}">
-      <img src="{{ $src }}" alt="{{ $alt }}" title="{{ $title }}" style="width: {{ $width }}; height: {{ $height }};" />
+      <img src="{{ $src }}" alt="{{ $alt }}" title="{{ $title }}" style="width: {{ $width }}; height: {{ $height }}; display: inline-block; vertical-align: middle;" />
     </a>
   {{ else }}
-    <img src="{{ $src }}" alt="{{ $alt }}" title="{{ $title }}" style="width: {{ $width }}; height: {{ $height }};" />
+    <img src="{{ $src }}" alt="{{ $alt }}" title="{{ $title }}" style="width: {{ $width }}; height: {{ $height }}; display: inline-block; vertical-align: middle;" />
   {{ end }}
 </div>

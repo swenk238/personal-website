@@ -116,3 +116,9 @@ sectionPagesMenu = 'main'
         [markup.goldmark.extensions.passthrough.delimiters]
           block = [['\[', '\]'], ['$$', '$$']]
           inline = [['\\(', '\\)'], ['$', '$']]
+ 
+ [build]
+  publish = "public"
+  command = "hugo"
+  environment = { HUGO_VERSION = "0.133.0" }
+
