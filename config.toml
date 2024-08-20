@@ -117,3 +117,7 @@ sectionPagesMenu = 'main'
           block = [['\[', '\]'], ['$$', '$$']]
           inline = [['\\(', '\\)'], ['$', '$']]
  
+ [build]
+  publish = "public"
+  command = "hugo"
+  environment = { HUGO_VERSION = "0.133.0" }

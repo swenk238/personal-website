@@ -17,7 +17,7 @@ We all (should, I hope!) know how to find joint probability of set A and set B, 
 
 We know that conditional probability is $P(A|B) = P(A\cap B)P(B)$. To depict $P(A|B)$, the sample space is now 
 
-![condProb](condProb.jpg)
+![condProb](images/condProb.jpg)
 
 where we are interested in the joint probability over set B.
 

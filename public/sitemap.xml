@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/quotes/</loc>
+    <loc>https://kuhstats.netlify.app/quotes/</loc>
     <lastmod>2024-05-01T15:01:51+10:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-20T19:18:12+10:00</lastmod>
+    <loc>https://kuhstats.netlify.app/</loc>
+    <lastmod>2024-08-20T19:40:31+10:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/01-base-rate-fallacy/</loc>
+    <loc>https://kuhstats.netlify.app/post/01-base-rate-fallacy/</loc>
     <lastmod>2024-05-01T15:01:51+10:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://kuhstats.netlify.app/contact/</loc>
     <lastmod>2024-05-01T15:01:51+10:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/designs/</loc>
+    <loc>https://kuhstats.netlify.app/designs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/first-hugo-post/</loc>
+    <loc>https://kuhstats.netlify.app/post/first-hugo-post/</loc>
     <lastmod>2024-05-01T15:01:51+10:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://kuhstats.netlify.app/post/</loc>
     <lastmod>2024-05-01T15:01:51+10:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/techs/</loc>
+    <loc>https://kuhstats.netlify.app/techs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
