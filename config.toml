@@ -43,9 +43,9 @@ sectionPagesMenu = 'main'
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '' # header background image - default "/images/taranaki.jpg" 
+  backgroundImage = '' # header background image - default "/static/.images/taranaki.jpg" 
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/taranaki.jpg"
+  logo = "" # - default "/static/images/taranaki.jpg"
 
 [params.assets]
   favicon = ""
@@ -116,11 +116,3 @@ sectionPagesMenu = 'main'
         [markup.goldmark.extensions.passthrough.delimiters]
           block = [['\[', '\]'], ['$$', '$$']]
           inline = [['\\(', '\\)'], ['$', '$']]
-
-[build]
-  command = "hugo"
-  publish = "public"
- 
- [build.environment]
-  HUGO_VERSION = "0.133.0" 
-  
