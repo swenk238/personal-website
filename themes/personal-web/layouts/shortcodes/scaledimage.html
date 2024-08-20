@@ -1,0 +1,18 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $title := .Get "title" }}
+{{ $width := .Get "width" | default "auto" }}
+{{ $height := .Get "height" | default "auto" }}
+{{ $marginTop := .Get "margin-top" | default "0" }}
+{{ $url := .Get "url" }}
+{{ $align := .Get "align" | default "center" }}
+
+<div style="text-align: {{ $align }}; margin-top: {{ $marginTop }};">
+  {{ if $url }}
+    <a href="{{ $url }}" title="{{ $title }}">
+      <img src="{{ $src }}" alt="{{ $alt }}" title="{{ $title }}" style="width: {{ $width }}; height: {{ $height }};" />
+    </a>
+  {{ else }}
+    <img src="{{ $src }}" alt="{{ $alt }}" title="{{ $title }}" style="width: {{ $width }}; height: {{ $height }};" />
+  {{ end }}
+</div>
