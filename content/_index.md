@@ -68,7 +68,7 @@ Bayesian approach.](http://hdl.handle.net/1885/313116) --- presented at Bayesian
 
 <br> <br>
 
-- **Model-Based Socio-Economic Health Measures Using Causal Modeling** --- SPEED poster which [won the inaugural poster competition](https://twitter.com/AsaphChun/status/1025028890870214656) of the Social Statistics Section at JSM (Joint Statistical Meeting) 2018 held in Vancouver, Canada. 
+- **Model-Based Socio-Economic Health Measures Using Causal Modeling** --- SPEED poster which [won the inaugural poster competition](https://x.com/AsaphChun/status/1025028890870214656) of the Social Statistics Section at JSM (Joint Statistical Meeting) 2018 held in Vancouver, Canada. 
 
 - [Latent Socio-Economic Health and Causal Modelling](https://openresearch-repository.anu.edu.au/bitstream/1885/134344/5/BoB_poster.pdf) --- presented at Bayes on the Beach 2017. 
 
