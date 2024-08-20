@@ -27,7 +27,7 @@ My general training have been in **Bayesian inference and methods in application
 - [Using leave‑one‑out cross validation (LOO) in a multilevel regression and poststratification (MRP) workflow: A cautionary tale](https://doi.org/10.1002/sim.9964) --- joint work with Lauren Kennedy, Qixuan Chen, Andrew Gelman (Statistics in Medicine). 
 <center>
 <a href="https://doi.org/10.1002/sim.9964" target="_blank">
-  <img src="/static/images/looForMRP1.png" style="width:300px">
+  <img src="/images/looForMRP1.png" style="width:300px">
 </a>
 </center> <br>
 
@@ -60,6 +60,8 @@ My general training have been in **Bayesian inference and methods in application
   <img src="/images/uoaDiss.png" alt="UoAuckland dissertation" style="width:150px;height:200px;">
 </a>
 </center>
+
+![Alt text](/images/asc_2023.png)
 
 #### Posters: 
 

@@ -54,6 +54,7 @@ My general training have been in **Bayesian inference and methods in application
 
 
 - [Socio-economic position and mortality risks: a sibling approach Analysis using the New Zealand Longitudinal Census (NZLC)](https://www.researchgate.net/publication/321757582_Socio-economic_position_and_mortality_risks_a_sibling_approach_Analysis_using_the_New_Zealand_Longitudinal_Census_NZLC) --- supervised by Barry J Milne and Alan Lee
+![Alt text](/images/asc_2023.png)
 
 <center>
 <a href="https://www.researchgate.net/publication/321757582_Socio-economic_position_and_mortality_risks_a_sibling_approach_Analysis_using_the_New_Zealand_Longitudinal_Census_NZLC" target="_blank">
@@ -75,6 +76,8 @@ Bayesian approach.](http://hdl.handle.net/1885/313116) --- presented at Bayesian
 </center><br>
 
 [LACSH index: Modelling National Latent Socioeconomic Health and Examination of Policy Effects](http://hdl.handle.net/1885/313115) --- presented at Australian Statistical Conference 2023, University of Wollongong. Keywords: latent health; hierarchical/multilevel model; spatial; causal
+
+
 
 <center>
 <a href="https://openresearch-repository.anu.edu.au/bitstream/1885/313115/1/poster_LACSH.pdf" target="_blank">
