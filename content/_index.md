@@ -93,6 +93,7 @@ Some non-exhaustive list of links:
 <!-- - Sample size calculations:  
     1) [https://conjointly.com/blog/sample-size-calculator/](https://conjointly.com/blog/sample-size-calculator/)  -->
 - [Distributions](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
+- [Statistics notes](https://www-users.york.ac.uk/~mb55/pubs/pbstnote.htm)
 
 #### Blogs:
 - [Xi\' an\'s og](https://xianblog.wordpress.com/)
