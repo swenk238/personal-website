@@ -4,11 +4,13 @@ description:
 images: ["/images/taranaki.jpg"]
 ---
 
-Hi! I'm **Swen Kuh** _(last name pronounced as k-oo-h)_. My first name actually has two words and I've also published under **F. Swen Kuh**. 
+Hi! I'm **Swen Kuh** _(last name pronounced as k-oo-h)_. My first name actually has two words and I've also published under **F. Swen Kuh**. I have an unconventional background in Statistics and Sociology and interested in the intuitive intepretations of Bayesian outputs and all things sociologically-related.
 
-I'm currently a **Research Associate** at the Royal Melbourne Institute of Technology (RMIT) University working with [Dr. Anna Zhu] under an [ARC Linkage Grant](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP230100121) investigating “The Intended and Unintended Impact of Policy for Adaptive Policy Management”. Previously I was a Postdoctoral Research Fellow in Statistics at the University of Adelaide (previously Monash University with same collaborators) with [Dr. Lauren Kennedy](https://jazzystats.com/about.html) (University of Adelaide), in collaboration with [Assoc. Prof. Qixuan Chen](https://www.publichealth.columbia.edu/profile/qixuan-chen-phd) and [Prof. Andrew Gelman](http://www.stat.columbia.edu/~gelman/)  (Columbia University). I was also a **Teaching Associate** at Monash University, co-lecturing Data Visualization and Analytics to both undergraduates and Masters students at the Monash Business School and taught the Data Analytics Fundamental module, part of a Professional Enhancement Program in the Faculty of Arts.
+I'm currently a **Research Associate** at the Royal Melbourne Institute of Technology (RMIT) University working with [Dr. Anna Zhu] under an [ARC Linkage Grant](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP230100121) investigating “The Intended and Unintended Impact of Policy for Adaptive Policy Management”.
 
-Previously, I was an [IBISWorld PhD scholar](https://www.anu.edu.au/giving/impact-stories/nurturing-new-ideas) and obtained my PhD in Statistics from Australian National University under the supervision of [Prof. Grace Chiu](https://www.vims.edu/people/chiu_gs/) (now at William \& Mary) and [Dr. Anton Westveld](https://westveld-statsci.com/). In Aoteoroa New Zealand, I have also worked as a consultant and conducted qualitative interviews in market research companies. I had a minor in sociology and graduated from Honours in Statistics from University of Auckland (home of the R software!) working under [COMPASS](https://www.auckland.ac.nz/en/arts/our-research/research-institutes-centres-groups/compass.html), a quantitative social science research institute.
+Previously I was a Postdoctoral Research Fellow in Statistics at the University of Adelaide (previously Monash University with same collaborators) with [Dr. Lauren Kennedy](https://jazzystats.com/about.html) (University of Adelaide), in collaboration with [Assoc. Prof. Qixuan Chen](https://www.publichealth.columbia.edu/profile/qixuan-chen-phd) and [Prof. Andrew Gelman](http://www.stat.columbia.edu/~gelman/)  (Columbia University). I also lectured at Monash University, teaching Data Visualization and Analytics to both undergraduates and Masters students at the Monash Business School and introduced the Data Analytics Fundamental module in the Faculty of Arts.
+
+My PhD in Statistics was obtained from the Australian National University under the supervision of [Prof. Grace Chiu](https://www.vims.edu/people/chiu_gs/) (now at William \& Mary) and [Dr. Anton Westveld](https://westveld-statsci.com/) as an [IBISWorld PhD scholar](https://www.anu.edu.au/giving/impact-stories/nurturing-new-ideas). In Aoteoroa New Zealand, I graduated with Honours in Statistics from University of Auckland (home of the R software!) working under [COMPASS](https://www.auckland.ac.nz/en/arts/our-research/research-institutes-centres-groups/compass.html), a quantitative social science research institute and worked as a consultant, conducting qualitative interviews in market research companies and
 
 
 # Research
@@ -16,7 +18,7 @@ Previously, I was an [IBISWorld PhD scholar](https://www.anu.edu.au/giving/impac
 Research interests:
 - Bayesian inference and methods 
 - Social science applications
-- Data visualisation
+- Data visualisations
 
 My general training have been in **Bayesian inference and methods in applications to the social sciences**. My methodological training include multilevel regression and poststratification ([MRP](https://en.wikipedia.org/wiki/Multilevel_regression_with_poststratification)) method, Bayesian hierarchical (or multilevel/mixed) modelling, spatial modelling and causal inference using countries' socio-economic data while writing and coding up our own MCMC sampling methods. I also enjoy extracting insights from data and different ways of visualising the data and results. 
  
