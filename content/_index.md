@@ -26,7 +26,9 @@ My general training have been in **Bayesian inference and methods in application
 
 #### Here are some of my documented work:
 
-{{< scaledimage src="/images/trains.pdf" height="100px" width="300px" margin-top="0" >}}
+- [The Impact of a Regional Train Fare Cap Policy on Train
+Patronage] --- joint work with Lauren Kennedy and Anna Zhu
+{{< scaledimage src="/images/trains.png" height="200px" width="150px" margin-top="0" >}}
 
 - [Using leave‑one‑out cross validation (LOO) in a multilevel regression and poststratification (MRP) workflow: A cautionary tale](https://doi.org/10.1002/sim.9964) --- joint work with Lauren Kennedy, Qixuan Chen, Andrew Gelman (Statistics in Medicine). 
 
