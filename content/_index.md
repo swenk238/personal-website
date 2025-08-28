@@ -37,8 +37,7 @@ My general training have been in **Bayesian inference and methods in application
 - [A holistic Bayesian framework for modelling latent socio-economic health](https://openresearch-repository.anu.edu.au/handle/1885/264129) --- PhD thesis. On supervisory panel are Grace Chiu, Anton Westveld and Timothy Higgins. 
 <center>
 <a href="https://openresearch-repository.anu.edu.au/handle/1885/264129" target="_blank">
-  <img src="/static/images/thesis.png"
-  "/images/thesis.png" alt="Kuh thesis 2022" style="width:150px;height:200px;margin-top: 0">
+  <img src="/static/images/thesis.png" alt="Kuh thesis 2022" style="width:150px;height:200px;margin-top: 0">
 </a>
 </center><br>
 
