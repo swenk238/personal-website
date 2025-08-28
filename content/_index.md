@@ -37,21 +37,21 @@ My general training have been in **Bayesian inference and methods in application
 - [A holistic Bayesian framework for modelling latent socio-economic health](https://openresearch-repository.anu.edu.au/handle/1885/264129) --- PhD thesis. On supervisory panel are Grace Chiu, Anton Westveld and Timothy Higgins. 
 <center>
 <a href="https://openresearch-repository.anu.edu.au/handle/1885/264129" target="_blank">
-  <img src="/static/images/thesis.png" alt="Kuh thesis 2022" style="width:150px;height:200px;margin-top: 0">
+  <img src="/images/thesis.png" alt="Kuh thesis 2022" style="width:150px;height:200px;margin-top: 0">
 </a>
 </center><br>
 
 - [Latent Causal Socioeconomic Health Index.](https://arxiv.org/abs/2009.12217) --- joint work with Grace Chiu and Anton Westveld (in review).
 <center>
 <a href="https://arxiv.org/abs/2009.12217" target="_blank">
-  <img src="/static/images/ladder.png" alt="ladder plot" style="width:150px;height:200px;margin-top: 0">
+  <img src="/images/ladder.png" alt="ladder plot" style="width:150px;height:200px;margin-top: 0">
 </a>
 </center><br>
 
 - [Modeling National Latent Socioeconomic Health and Examination of Policy Effects via Causal Inference.](https://arxiv.org/abs/1911.00512) --- joint work with Grace Chiu and Anton Westveld (preprint). 
 <center>
 <a href="https://arxiv.org/abs/1911.00512" target="_blank">
-  <img src="/static/images/resMap.png" alt="residual map" style="width:200px;height:120px;margin-top: 0">
+  <img src="/images/resMap.png" alt="residual map" style="width:200px;height:120px;margin-top: 0">
 </a>
 </center><br>
 
@@ -60,7 +60,7 @@ My general training have been in **Bayesian inference and methods in application
 
 <center>
 <a href="https://www.researchgate.net/publication/321757582_Socio-economic_position_and_mortality_risks_a_sibling_approach_Analysis_using_the_New_Zealand_Longitudinal_Census_NZLC" target="_blank">
-  <img src="/static/images/uoaDiss.png" alt="UoAuckland dissertation" style="width:150px;height:200px;">
+  <img src="/images/uoaDiss.png" alt="UoAuckland dissertation" style="width:150px;height:200px;">
 </a>
 </center>
 
@@ -73,7 +73,7 @@ Bayesian approach.](http://hdl.handle.net/1885/313116) --- presented at Bayesian
 
 <center>
 <a href="https://openresearch-repository.anu.edu.au/bitstream/1885/313116/1/erl_poster.pdf" target="_blank">
-  <img src="/static/images/bnp_2023.png" alt="extended rank likelihood poster" style="width:200px;height:280px;">
+  <img src="/images/bnp_2023.png" alt="extended rank likelihood poster" style="width:200px;height:280px;">
 </a>
 </center><br>
 
@@ -81,7 +81,7 @@ Bayesian approach.](http://hdl.handle.net/1885/313116) --- presented at Bayesian
 
 <center>
 <a href="https://openresearch-repository.anu.edu.au/bitstream/1885/313115/1/poster_LACSH.pdf" target="_blank">
-  <img src="/static/images/asc_2023.png" alt="ASC2023 poster" style="width:200px;height:280px;">
+  <img src="/images/asc_2023.png" alt="ASC2023 poster" style="width:200px;height:280px;">
 </a>
 </center><br>
 
@@ -92,7 +92,7 @@ Bayesian approach.](http://hdl.handle.net/1885/313116) --- presented at Bayesian
 
 <center>
 <a href="https://openresearch-repository.anu.edu.au/bitstream/1885/95008/1/Poster_Swen%20Kuh.pdf" target="_blank">
-  <img src="/static/images/BoB_poster.png" alt="Bayes on the Beach poster" style="width:200px;height:280px;">
+  <img src="/images/BoB_poster.png" alt="Bayes on the Beach poster" style="width:200px;height:280px;">
 </a>
 </center><br>
 
@@ -100,7 +100,7 @@ Bayesian approach.](http://hdl.handle.net/1885/313116) --- presented at Bayesian
 
 <center>
 <a href="https://openresearch-repository.anu.edu.au/bitstream/1885/95008/1/Poster_Swen%20Kuh.pdf" target="_blank">
-  <img src="/static/images/sna.png" alt="Alt Text" style="width:300px;height:200px;">
+  <img src="/images/sna.png" alt="Alt Text" style="width:300px;height:200px;">
 </a>
 </center>
 
