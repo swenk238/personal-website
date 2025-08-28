@@ -28,7 +28,7 @@ My general training have been in **Bayesian inference and methods in application
 
 - The Impact of a Regional Train Fare Cap Policy on Train
 Patronage --- joint work with Lauren Kennedy and Anna Zhu. Presented at [ESOBE 2025](https://mbs.edu/events/2025-08-26-the-european-seminar-on-bayesian-econometrics)
-{{< scaledimage src="/images/trains.png" url="https://mbs.edu/events/2025-08-26-the-european-seminar-on-bayesian-econometrics" height="200px" width="150px" margin-top="0" >}}
+{{< scaledimage src="/images/trains.png" height="200px" width="150px" margin-top="0" >}}
 
 - [Using leave‑one‑out cross validation (LOO) in a multilevel regression and poststratification (MRP) workflow: A cautionary tale](https://doi.org/10.1002/sim.9964) --- joint work with Lauren Kennedy, Qixuan Chen, Andrew Gelman (Statistics in Medicine). 
 
