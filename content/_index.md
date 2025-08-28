@@ -14,22 +14,9 @@ In addition to my research, I was also a **Teaching Associate** at Monash Univer
 
 My PhD in Statistics was obtained from the Australian National University under the supervision of [Prof. Grace Chiu](https://www.vims.edu/people/chiu_gs/)  (now at William & Mary) and [Dr. Anton Westveld](https://westveld-statsci.com/) as an [IBISWorld PhD scholar](https://www.anu.edu.au/giving/impact-stories/nurturing-new-ideas) In Aoteoroa New Zealand, I graduated with Honours in Statistics from University of Auckland (home of the R software!) working under [COMPASS](https://www.auckland.ac.nz/en/arts/our-research/research-institutes-centres-groups/compass.html), a quantitative social science research institute and worked as a consultant, conducting qualitative interviews in market research companies.
 
-{{% steps %}}
+{{< steps >}}
 
-### Step 1
-
-The first step here...
-
-### Step 2
-
-The second step here...
-
-### Step 3
-
-The third step here...
-
-{{% /steps %}}
-
+{{< /steps >}}
 
 # Research
 
