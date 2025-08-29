@@ -4,31 +4,28 @@ description:
 images: ["/images/taranaki.png"]
 ---
 
-Hi! I'm **Swen Kuh** _(last name pronounced as k-oo-h)_. My first name actually has two words and I've also published under **F. Swen Kuh**. 
+Hi! I'm **Swen Kuh** _(last name pronounced as k-oo-h)_. My first name actually has two words and I've also published under **F. Swen Kuh**.  
 
-I’m currently a **Senior Research Officer** with the [Ten to Men](https://aifs.gov.au/tentomen) team at the Australian Institute of Family Studies (AIFS). I am also concurrently a Research Associate at the Royal Melbourne Institute of Technology (RMIT) University working with [Dr. Anna Zhu](https://annazhu.site/) under an [ARC Linkage Grant](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP230100121) investigating “The Intended and Unintended Impact of Policy for Adaptive Policy Management”.
 
-In my previous life I was a Postdoctoral Research Fellow in Statistics at the University of Adelaide (and Monash University with the same collaborators) with [Dr. Lauren Kennedy](https://jazzystats.com/about.html)  (Adelaide University), in collaboration with [Assoc. Prof. Qixuan Chen](https://www.publichealth.columbia.edu/profile/qixuan-chen-phd) and [Prof. Andrew Gelman](http://www.stat.columbia.edu/~gelman/)  (Columbia University). 
+- _Currently_:  <br> <br>
 
-In addition to my research, I was also a **Teaching Associate** at Monash University, co-lecturing Data Visualisation and Analytics to both undergraduates and Masters students at the Monash Business School, and I taught the Data Analytics Fundamental module as part of a Professional Enhancement Program in the Faculty of Arts.
 
-My PhD in Statistics was obtained from the Australian National University under the supervision of [Prof. Grace Chiu](https://www.vims.edu/people/chiu_gs/)  (now at William & Mary) and [Dr. Anton Westveld](https://westveld-statsci.com/) as an [IBISWorld PhD scholar](https://www.anu.edu.au/giving/impact-stories/nurturing-new-ideas) In Aoteoroa New Zealand, I graduated with Honours in Statistics from University of Auckland (home of the R software!) working under [COMPASS](https://www.auckland.ac.nz/en/arts/our-research/research-institutes-centres-groups/compass.html), a quantitative social science research institute and worked as a consultant, conducting qualitative interviews in market research companies.
+    &Tab; **Senior Research Officer** with the [Ten to Men](https://aifs.gov.au/tentomen) team at the Australian Institute of Family Studies (AIFS). 
+- _Concurrently_: <br> <br>
 
-{{% steps %}}
+    &Tab; Research Associate at the Royal Melbourne Institute of Technology (RMIT) University working with [Dr. Anna Zhu](https://annazhu.site/) under an [ARC Linkage Grant](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP230100121) investigating “The Intended and Unintended Impact of Policy for Adaptive Policy Management”.
 
-### Step 1
+- _Previously_:  <br> <br> <br>
 
-The first step here...
 
-### Step 2
+    - Postdoctoral Research Fellow in Statistics at the University of Adelaide (and Monash University with the same collaborators) with [Dr. Lauren Kennedy](https://jazzystats.com/about.html)  (Adelaide University), in collaboration with [Assoc. Prof. Qixuan Chen](https://www.publichealth.columbia.edu/profile/qixuan-chen-phd) and [Prof. Andrew Gelman](http://www.stat.columbia.edu/~gelman/)  (Columbia University). 
 
-The second step here...
+    - In addition to my research, I was also a **Teaching Associate** at Monash University, co-lecturing Data Visualisation and Analytics to both undergraduates and Masters students at the Monash Business School, and I taught the Data Analytics Fundamental module as part of a Professional Enhancement Program in the Faculty of Arts.
 
-### Step 3
+    - My PhD in Statistics was obtained from the Australian National University under the supervision of [Prof. Grace Chiu](https://www.vims.edu/people/chiu_gs/)  (now at William & Mary) and [Dr. Anton Westveld](https://westveld-statsci.com/) as an [IBISWorld PhD scholar](https://www.anu.edu.au/giving/impact-stories/nurturing-new-ideas).
+    
+    - In Aoteoroa New Zealand, I graduated with Honours in Statistics from University of Auckland (home of the R software!) working under [COMPASS](https://www.auckland.ac.nz/en/arts/our-research/research-institutes-centres-groups/compass.html), a quantitative social science research institute and worked as a consultant, conducting qualitative interviews in market research companies.
 
-The third step here...
-
-{{% /steps %}}
 
 # Research
 
@@ -41,10 +38,6 @@ My general training have been in **Bayesian inference and methods in application
  
 
 #### Here are some of my documented work:
-
-- The Impact of a Regional Train Fare Cap Policy on Train
-Patronage --- joint work with Lauren Kennedy and Anna Zhu. Presented at [ESOBE 2025](https://mbs.edu/events/2025-08-26-the-european-seminar-on-bayesian-econometrics)
-{{< scaledimage src="/images/trains.png" height="200px" width="150px" margin-top="0" >}}
 
 - [Using leave‑one‑out cross validation (LOO) in a multilevel regression and poststratification (MRP) workflow: A cautionary tale](https://doi.org/10.1002/sim.9964) --- joint work with Lauren Kennedy, Qixuan Chen, Andrew Gelman (Statistics in Medicine). 
 
@@ -78,6 +71,10 @@ Patronage --- joint work with Lauren Kennedy and Anna Zhu. Presented at [ESOBE 2
 #### Posters: 
 
 <br>
+
+- The Impact of a Regional Train Fare Cap Policy on Train
+Patronage --- joint work with Lauren Kennedy and Anna Zhu. Presented at [ESOBE 2025](https://mbs.edu/events/2025-08-26-the-european-seminar-on-bayesian-econometrics)
+{{< scaledimage src="/images/trains.png" height="200px" width="150px" margin-top="0" >}}
 
 - [Joint modelling of multiple treatment variables for a single outcome: A
 Bayesian approach.](http://hdl.handle.net/1885/313116) --- presented at Bayesian Nonparametric Workshop 2023, Monash University. Keywords: extended rank likelihood; copula; generalised propensity score; dose-response surface

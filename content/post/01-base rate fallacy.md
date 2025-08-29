@@ -1,8 +1,6 @@
 ---
 title: Base rate fallacy
 description: conditional probability
-date: .published-date
-publishDate: .published-date
 ---
 
 Today I was reading about [Base Rate Fallacy](https://jonathanweisberg.org/vip/chbayes.html#baserate) on _Odds & Ends_ by Jonathan Weisberg, which is a textbook for introductory philosophy courses on probability and inductive logic, freely available on his website [here](https://jonathanweisberg.org/vip/). The chapter also starts off with this quote, 
